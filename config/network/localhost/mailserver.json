@@ -23,4 +23,10 @@
         "title": "wtf are you kidding me?",
         "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
     }
+    {
+        "from": "Carver",
+        "to": ["Orion"],
+        "title": "I keep my bargains",
+        "body": "As we agreed, I dug up some intel on a group of blanks hiding out in LA. They seem to be holding mostly around north Hollywood in a club owned by a music mogul by the name of Temple. We sent a team a while back and never heard from them. If you follow through with this, be careful. I need you alive to hold up your end of the deal.        -C"
+    }
 ]
