@@ -1,8 +1,8 @@
 {
-    "year": "2377",
+    "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
+    "serverName": "Federal Bureau of Investigation Database",
+    "iconName": "fbi.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
